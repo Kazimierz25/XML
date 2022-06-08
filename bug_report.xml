@@ -1,3 +1,19 @@
 Android app bug_report.xml
 
-
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+    <Telegram_nickname>@Kazimierz25</Telegram_nickname>
+    <Bug_id>1</Bug_id>
+    <Title> 'Add_widget' button function is not working on device</Title>
+    <Severity>blocker</Severity>
+    <Priority>high</Priority>
+    <Environment>Xiaomi M2012K11AG 12.SKQ.211006.001 MIUI 13.0.1.0</Environment>
+    <Precondition>clear the app from running</Precondition>
+    <STR>Open app</STR>
+    <STR>Click 'Add_Widget' button</STR>
+    <AR>button design changes on tap</AR>
+    <AR>but button function is not working</AR>
+    <AR>widget is not created on any page</AR>
+    <ER>Widget creation window appears</ER>
+    <ER>widget created</ER>
+</root>
