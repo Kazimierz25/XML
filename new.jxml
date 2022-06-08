@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<root>
-    <firstName>Kazimierz</firstName>
-    <lastName>Loganovski</lastName>
-    <age>34</age>
-    <pet>1</pet>
-    <salary>2000</salary>
-</root>
